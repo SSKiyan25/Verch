@@ -17,7 +17,7 @@ useHead({
 });
 </script>
 <template>
-  <div>
+  <div class="bg-[#f6f6f6] min-h-screen">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
